@@ -8,5 +8,5 @@ Son Heung-Min Shotmap vs Luton
 
 ![Shotmap](https://github.com/yashps7/shotmap/blob/main/shotmap.png)
 
-##### For Similar plots
-[More](https://www.youtube.com/playlist?list=PL10a1_q15HwqVEcnqt3tXs1bgvawjsQNW)
+##### For More Similar plots
+[link](https://www.youtube.com/playlist?list=PL10a1_q15HwqVEcnqt3tXs1bgvawjsQNW)
